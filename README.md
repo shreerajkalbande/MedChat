@@ -1,4 +1,4 @@
-# 🩺 MediChat – Medical Diagnosis Chatbot
+# 🩺 MedChat – Medical Diagnosis Chatbot
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Frontend: HTML/CSS](https://img.shields.io/badge/Frontend-HTML%2FCSS-f06529?style=for-the-badge&logo=html5&logoColor=white)
